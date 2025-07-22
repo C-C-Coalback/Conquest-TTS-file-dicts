@@ -1,7 +1,7 @@
 {
-    "Waaagh! Arbuttz": "",
-    "Waaagh! Zanzag": "",
-    "Waaagh! Ungskar": "",
+    "WAAAGH! Arbuttz": "",
+    "WAAAGH! Zanzag": "",
+    "WAAAGH! Ungskar": "",
     "Cybork Body": "",
     "Bigga Is Betta": "",
     "Kraktoof Hall": "",
@@ -28,7 +28,7 @@
     "Made Ta Fight": "",
     "Fake Ooman Base": "",
     "Soot-Blackened Axe": "",
-    "Kommando Kunning": "",
+    "Kommando Cunning": "",
     "Snagbrat's Scouts": "",
     "Korporal Snagbrat": "{ \"Resource\":7, \"Card\":7 }",
     "Mork's Great Heap": "",
@@ -53,7 +53,7 @@
     "Gorgul da Slaya": "",
     "Enraged Ork": "",
     "Bad Dok": "",
-    "Herald of the WAAAGH!": "",
+    "Herald of the WAAGH!": "",
     "Crushface": "",
     "Goff Brawlers": "",
     "Evil Sunz Warbiker": "",
@@ -68,7 +68,7 @@
     "Shoota Mob": "",
     "Patient Infiltrator": "",
     "Kommando Sneakaz": "",
-    "Impuslive Loota": "",
+    "Impulsive Loota": "",
     "Blitza-Bommer": "",
     "Mekaniak Repair Krew": "",
     "Goff Boyz": "",
@@ -108,6 +108,6 @@
     "Da Swoopy": "",
     "Da Sharpy": "",
     "Da Boomy": "",
-    "Da `Eavy": "",
-    "Big Mek Kagdrak Warlord Cards": "{ \"Resource\":7, \"Card\":7 }"
+    "Da 'Eavy": "",
+    "Big Mek Kagdrak": "{ \"Resource\":7, \"Card\":7 }"
 }
